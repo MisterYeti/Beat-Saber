@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_test
+  m_Shader: {fileID: 4800000, guid: 2fb367dbe0f52bd47bb81b3d78b82927, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Foam:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normals:
+        m_Texture: {fileID: 2800000, guid: 066f29fd0fc3d0341b96857dcf2cede3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShieldPatternWaves:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ChromaticAberration: 0.1
+    - _DepthFadeDistance: 0.4
+    - _Distorsion: 0.0726
+    - _DistortionAmount: 0.052
+    - _Float0: 0.02
+    - _Float1: 0.039328326
+    - _Float2: 0.42964587
+    - _Float3: 2.32
+    - _FresnelPower: 2.32
+    - _FresnelScale: -0.46
+    - _HitSize: 0.2
+    - _HitTime: 0
+    - _IndexofRefraction: 1
+    - _IntersectIntensity: 0
+    - _Opacity: 0
+    - _Outline_intens: 0.9
+    - _Outline_net: 1.55
+    - _RimPower: 3.63
+    - _ShieldAnimSpeed: -7.12
+    - _ShieldPatternPower: 2.6
+    - _ShieldRimPower: 7.27
+    - _Smoothness: 0.8
+    - _SoapAmount: 0
+    - _Specular: 0
+    - _Speed_animation: 0.02
+    - _TimeScale: 0.02
+    - _TransAmbient: 0.2
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.1
+    - _TransScattering: 2
+    - _TransShadow: 0.9
+    - _Translucency: 1
+    - _Transparence: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 0, g: 0.53735757, b: 1, a: 1}
+    - _Color0: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 1}
+    - _Color1: {r: 0.009698053, g: 0, b: 0.6320754, a: 1}
+    - _ForcefieldTint: {r: 0.91224635, g: 0.93928677, b: 0.9433962, a: 1}
+    - _HitColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HitPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _IntersectColor: {r: 0.03137255, g: 0.08000084, b: 0.31764668, a: 1}
+    - _IntersectionColor: {r: 0.30660373, g: 0.5205391, b: 1, a: 1}
+    - _RimColor: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 1}
+    - _ShieldPatternColor: {r: 0, g: 0.7957666, b: 1, a: 1}
+    - _Transparence_general: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
